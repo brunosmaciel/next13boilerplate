@@ -1,3 +1,5 @@
 export default async function Home() {
-  return <>Hello Next13</>;
+  return <>
+        <h1>Hello Next13</h1>
+  </>;
 }
